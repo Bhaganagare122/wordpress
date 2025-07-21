@@ -40,3 +40,5 @@ sudo chmod -R 777 wordpress
 * password: root
 * write a blog
 ![alt text](<Screenshot 2025-07-02 192352-1.png>)
+
+This file belongs to rushikesh
